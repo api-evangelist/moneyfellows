@@ -1,0 +1,14 @@
+{
+  "repo": "moneyfellows",
+  "feeds": [
+    {
+      "source": "https://moneyfellows.com/en-us/about-us-page/",
+      "feed_url": "https://moneyfellows.com/en-us/about-us-page/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
